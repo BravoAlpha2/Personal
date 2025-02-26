@@ -40,7 +40,7 @@
    <tr>
       <td align="center" width="150">
         <img src="https://www.appgeo.com/wp-content/uploads/GoogleEarthEngine.png" width="50">
-        <br><strong>Earth Engine</strong>
+        <br><strong>Google Earth Engine</strong>
      </td>
      <td align="center" width="150">
         <img src="https://www.osgeo.org/wp-content/uploads/QGIS-Logo.png" width="50">
