@@ -16,52 +16,51 @@
 
 ## 🧠 Hard Skills:
 
-## 🧠 Hard Skills:
+<div align="center">
+  
+  <a href="https://earthengine.google.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Google_Earth_Engine_logo.png" width="50">
+    <br>Google Earth Engine
+  </a> &nbsp;&nbsp;&nbsp;
 
-<p align="center">
-<table>
-  <tr>
-     <td align="center" width="150">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Google_Earth_Engine_logo.png" width="50">
-        <br><strong>Google Earth Engine</strong>
-     </td>
+  <a href="https://qgis.org/en/site/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/QGIS_logo.svg" width="50">
+    <br>QGIS
+  </a> &nbsp;&nbsp;&nbsp;
 
-     <td align="center" width="150">
-        <img src="https://en.wikipedia.org/wiki/QGIS#/media/File:QGIS_logo,_2017.svg" width="50">
-        <br><strong>QGIS</strong>
-     </td>
+  <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/ArcGIS_logo.png" width="50">
+    <br>ArcGIS
+  </a> &nbsp;&nbsp;&nbsp;
 
-     <td align="center" width="150">
-        <img src="https://en.wikipedia.org/wiki/ArcGIS#/media/File:ArcGIS_logo.png" width="50">
-        <br><strong>ArcGIS</strong>
-     </td>
+  <a href="https://postgis.net/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/PostGIS_logo.png" width="50">
+    <br>PostGIS
+  </a>
 
-     <td align="center" width="150">
-        <img src="https://pt.wikipedia.org/wiki/PostGIS#/media/Ficheiro:Logo_square_postgis.png" width="50">
-        <br><strong>PostGIS</strong>
-     </td>
-  </tr>
+  <br><br>
 
-  <tr>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50">
-      <br><strong>Python</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50">
-      <br><strong>R / RStudio</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50">
-      <br><strong>JavaScript</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50">
-      <br><strong>HTML</strong>
-    </td>
-  </tr>
-</table>
-</p>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50">
+    <br>Python
+  </a> &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50">
+    <br>R / RStudio
+  </a> &nbsp;&nbsp;&nbsp;
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50">
+    <br>JavaScript
+  </a> &nbsp;&nbsp;&nbsp;
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50">
+    <br>HTML
+  </a>
+
+</div>
 
 
 
