@@ -25,7 +25,7 @@
      </td>
 
      <td align="center" width="150">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/QGIS_logo.svg" width="50">
+        <img src="https://www.osgeo.org/wp-content/uploads/QGIS-Logo.png" width="50">
         <br><strong>QGIS</strong>
      </td>
 
