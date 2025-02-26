@@ -20,7 +20,7 @@
 <table>
   <tr>
       <td align="center" width="150">
-        <img src="https://www.geosysiot.in/wp-content/uploads/2019/03/googleearthenginelogo.png" width="50">
+        <img src="https://www.appgeo.com/wp-content/uploads/GoogleEarthEngine.png" width="50">
         <br><strong>Google Earth Engine</strong>
      </td>
 
