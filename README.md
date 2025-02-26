@@ -29,13 +29,13 @@
       </td>
 
       <td align="center">
-        <img src="https://en.wikipedia.org/wiki/File:ArcGIS_logo.png" width="50">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/ArcGIS_logo.png" width="50">
         <br>ArcGIS
       </td>
 
       <td align="center">
-        <img src="https://pt.wikipedia.org/wiki/PostGIS#/media/Ficheiro:Logo_square_postgis.png" width="50">
-        <br>ArcGIS
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/PostGIS_logo.png" width="50">
+        <br>PostGIS
       </td>
   </tr>
  
@@ -45,19 +45,18 @@
       <br>Python
     </td>
     <td align="center">
-      <img src="https://en.wikipedia.org/wiki/RStudio#/media/File:RStudio_logo_flat.svg" width="50">
-      <br>R / Rstudio
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50">
+      <br>R / RStudio
     </td>
     <td align="center">
-      <img src="https://pt.wikipedia.org/wiki/Ficheiro:Unofficial_JavaScript_logo_2.svg" width="50">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50">
       <br>JavaScript
     </td>
     <td align="center">
-      <img src="https://pt.wikipedia.org/wiki/Ficheiro:HTML5_logo_and_wordmark.svg" width="50">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50">
       <br>HTML
     </td>
   </tr>
-  
 </table>
 
 <br>
