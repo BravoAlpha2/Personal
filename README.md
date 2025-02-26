@@ -20,7 +20,7 @@
 <table>
   <tr>
       <td align="center" width="150">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Google_Earth_Engine_logo.png" width="50">
+        <img src="https://www.geosysiot.in/wp-content/uploads/2019/03/googleearthenginelogo.png" width="50">
         <br><strong>Google Earth Engine</strong>
      </td>
 
@@ -29,7 +29,16 @@
         <br><strong>QGIS</strong>
      </td>
 
-    
+     <td align="center" width="150">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/ArcGIS_logo.png" width="50">
+        <br><strong>ArcGIS</strong>
+     </td>
+
+     <td align="center" width="150">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/PostGIS_logo.png" width="50">
+        <br><strong>PostGIS</strong>
+     </td>
+     
   </tr>
 
   <tr>
