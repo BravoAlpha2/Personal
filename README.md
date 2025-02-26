@@ -1,5 +1,7 @@
-<h2 align="left">**Hi 👋! I'm Nuno Garcia.** </h2> <br>
+<h2 align="center"> Hi 👋! I'm Nuno Garcia! ☺️ </h2>
 I'm a biologist and GIS analyst specializing in geospatial data, remote sensing, and biodiversity modelling. I previously worked as a Junior Researcher at Vrije Universiteit Amsterdam and now apply GIS for environmental decision-making. I'm passionate about sustainability and data-driven solutions.
+
+<br>
 
 **📍 GIS & Earth Observation specialist | Biodiversity & Spatial Modelling expert**  
 👩‍🎓 I'm a biologist and GIS analyst specializing in geospatial data, remote sensing, and biodiversity modelling. I previously worked as a junior researcher at Vrije Universiteit Amsterdam and now apply GIS for environmental decision-making. I'm passionate about sustainability and data-driven solutions.
@@ -9,15 +11,12 @@ I'm a biologist and GIS analyst specializing in geospatial data, remote sensing,
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BravoAlpha2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<br>
+
 ## 🔍 About me
 At the intersection of science and technology, I use GIS, Google Earth Engine, R, Python, and other methods to analyze biodiversity trends, model climate impacts, and develop data-driven solutions for conservation and sustainable planning. Through my research and projects, I aim to bridge the gap between spatial data analysis and real-world ecological applications, contributing to informed decision-making in environmental management.
 
-## 💼 Experiências
-- 💻 Desenvolvimento de **mapas interativos** usando Python e a biblioteca **Geemap**.
-- ⚙️ Extração e manipulação de dados geoespaciais por meio do **Google Earth Engine**.
-- 🗺️ Manipulação de dados e criação de mapas utilizando **QGIS**.
-- 💡 Análise e tratamento de dados com as bibliotecas **Pandas** e **GeoPandas**.
-- 📊 Visualização de dados utilizando **Seaborn** e **Matplotlib**.
+<br>
 
 ## 🧠 Hard Skills:
 
@@ -64,6 +63,8 @@ At the intersection of science and technology, I use GIS, Google Earth Engine, R
   </tr>
 </table>
 
+<br>
+
 ## 📌 Meus Projetos
 
 ### 🌍 **Swiss Re Foundation**
@@ -96,7 +97,7 @@ Contribuí para a criação de uma **tabela interativa** do artigo *"R packages 
 
 🔗 [Ver app](#)
 
----
+<br>
 
 ## 🌍 Link with me!
 <ul class="icons">
