@@ -16,48 +16,53 @@
 
 ## 🧠 Hard Skills:
 
-<table style="border-collapse: collapse;">
+## 🧠 Hard Skills:
+
+<p align="center">
+<table>
   <tr>
      <td align="center" width="150">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Google_Earth_Engine_logo.png" width="30">
-        <br><b>Google Earth Engine</b>
-      </td>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Google_Earth_Engine_logo.png" width="50">
+        <br><strong>Google Earth Engine</strong>
+     </td>
 
-      <td align="center" width="150">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/QGIS_logo.svg" width="30">
-        <br><b>QGIS</b>
-      </td>
+     <td align="center" width="150">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/QGIS_logo.svg" width="50">
+        <br><strong>QGIS</strong>
+     </td>
 
-      <td align="center" width="150">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/ArcGIS_logo.png" width="30">
-        <br><b>ArcGIS</b>
-      </td>
+     <td align="center" width="150">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/ArcGIS_logo.png" width="50">
+        <br><strong>ArcGIS</strong>
+     </td>
 
-      <td align="center" width="150">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/PostGIS_logo.png" width="30">
-        <br><b>PostGIS</b>
-      </td>
+     <td align="center" width="150">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/PostGIS_logo.png" width="50">
+        <br><strong>PostGIS</strong>
+     </td>
   </tr>
- 
+
   <tr>
     <td align="center" width="150">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50">
-      <br><b>Python</b>
+      <br><strong>Python</strong>
     </td>
     <td align="center" width="150">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50">
-      <br><b>R / RStudio</b>
+      <br><strong>R / RStudio</strong>
     </td>
     <td align="center" width="150">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50">
-      <br><b>JavaScript</b>
+      <br><strong>JavaScript</strong>
     </td>
     <td align="center" width="150">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50">
-      <br><b>HTML</b>
+      <br><strong>HTML</strong>
     </td>
   </tr>
 </table>
+</p>
+
 
 
 ## 📌 Projects
