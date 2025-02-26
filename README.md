@@ -29,6 +29,14 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/BravoAlpha2/BravoAlpha2/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZzZnNkNjV2YnNwc2pmY3hvaHB4N3dqbTRmMDAxc3g4eWVwa3kyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DMUFPG2niG1TW/giphy.gif"  />
 
 ###
