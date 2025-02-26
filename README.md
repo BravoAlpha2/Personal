@@ -2,18 +2,13 @@
 
 <br>
 
-**📍 GIS & Earth Observation specialist | Biodiversity & Spatial Modelling expert**  
-👩‍🎓 I'm a biologist and GIS analyst specializing in geospatial data, remote sensing, and biodiversity modelling. I previously worked as a junior researcher at Vrije Universiteit Amsterdam and now apply GIS for environmental decision-making. I'm passionate about sustainability and data-driven solutions.
+## 🔍 About me
+👩‍🎓 **GIS & Earth Observation Specialist | Biodiversity & Spatial Modeling Expert**, former Junior Researcher at Vrije Universiteit Amsterdam, focused on geospatial data, remote sensing, and biodiversity modeling. Passionate about sustainability and data-driven conservation. I use GIS, Google Earth Engine, R, and Python to analyze biodiversity trends, model climate impacts, and develop data-driven solutions for conservation. My work connects spatial data analysis with real-world ecological applications, supporting environmental decision-making.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BravoAlpha2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BravoAlpha2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-<br>
-
-## 🔍 About me
-At the intersection of science and technology, I use GIS, Google Earth Engine, R, Python, and other methods to analyze biodiversity trends, model climate impacts, and develop data-driven solutions for conservation and sustainable planning. Through my research and projects, I aim to bridge the gap between spatial data analysis and real-world ecological applications, contributing to informed decision-making in environmental management.
 
 <br>
 
