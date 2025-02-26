@@ -1,7 +1,5 @@
-<h2 align="center"> Hi 👋! I'm Nuno Garcia! ☺️ </h2>
-I'm a biologist and GIS analyst specializing in geospatial data, remote sensing, and biodiversity modelling. I previously worked as a Junior Researcher at Vrije Universiteit Amsterdam and now apply GIS for environmental decision-making. I'm passionate about sustainability and data-driven solutions.
+<h2 align="center"> Hello 👋! I'm Nuno Garcia! ☺️ </h2>
 
-<br>
 <br>
 
 **📍 GIS & Earth Observation specialist | Biodiversity & Spatial Modelling expert**  
