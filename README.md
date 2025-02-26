@@ -70,32 +70,32 @@ At the intersection of science and technology, I use GIS, Google Earth Engine, R
 ### 🌍 **Swiss Re Foundation**
 Contributed to the project *"Understanding risks and opportunities of alternative scenarios for a future friendly to biodiversity and people in Europe"*. This research assesses climate and land use change impacts on biodiversity and ecosystem services across Europe, generating species distribution and risk maps for multiple taxa.
 
-🔗 [View news](#)
+🔗 [View news](#https://www.swissrefoundation.org/what-we-do/projects/natural-hazard-and-climate-risk-management/Modelling-biodiversity-loss-to-boost-resilience/Biodiversity-and-ecosystem-services-scenarios-modelling-challenge--Winners-2023.html)
 
 ### 🌱 **NaturaConnect**
 Developed land use scenarios for the **Nature Futures Framework (NFF)** within the NaturaConnect project. As part of **Task 5.2**, ran **high-resolution (1 km) land-use models** to quantify potential land-use and land management changes, using **CLUMondo** and European **SSP scenarios**.
 
-🔗 [View models](#)
+🔗 [View models](#https://zenodo.org/records/14228230)
 
 ### 🌎 **Earth Commission**
 Contributed to a study demonstrating that **at least 20%–25% (semi-)natural habitat per km²** is required to sustain **Nature’s Contributions to People (NCP)** in human-modified landscapes. Developed a **Google Earth Engine (GEE) app** to visualize the results.
 
-🔗 [View article](#) | 🔗 [View GEE App](#)
+🔗 [View article](#https://doi.org/10.1016/j.oneear.2023.12.008) | 🔗 [View GEE App](#https://ee-nunogarcia8.projects.earthengine.app/view/naturescontributionstopeople)
 
 ### 🗺️ **MontObEO - Web GIS**
 Developed a **Web GIS system** to monitor biodiversity in the **Montesinho/Nogueira Special Protection Area (MN-SPA)** as part of the **MontObEO project and MSc thesis**. Created both **Portuguese and English versions** for native and foreign users.
 
-🔗 [View Web GIS (EN)](#) | 🔗 [View Web GIS (PT)](#)
+🔗 [View Web GIS (EN)](#https://montobeo.shinyapps.io/MN-SPA_WebGIS/) | 🔗 [View Web GIS (PT)](#https://montobeo.shinyapps.io/MN-SPA_WebSIG/)
 
 ### 🦎 **NA2RE - Atlas of Amphibians and Reptiles of Europe**
 Using **R**, developed *"NA2RE: New ATLAS of Amphibians and Reptiles of Europe."* This project compiles updated data on amphibian and reptile distributions across Europe.
 
-🔗 [View NA2RE](#)
+🔗 [View NA2RE](#https://montobeo.shinyapps.io/NA2RE/)
 
 ### 📊 **R Packages**
 Contributed to an **interactive table** version of the article *"R packages for ecological niche modelling"*, published in *Ecological Modelling (2023)* by **Dr. Neftalí Sillero, Dr. João C. Campos, Dr. Salvador Arenas-Castro, and Dr. Ana Márcia Barbosa**.
 
-🔗 [View app](#)
+🔗 [View app](#https://montobeo.shinyapps.io/R_packages_for_enm/)
 
 
 <br>
