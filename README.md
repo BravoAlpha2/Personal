@@ -2,6 +2,7 @@
 I'm a biologist and GIS analyst specializing in geospatial data, remote sensing, and biodiversity modelling. I previously worked as a Junior Researcher at Vrije Universiteit Amsterdam and now apply GIS for environmental decision-making. I'm passionate about sustainability and data-driven solutions.
 
 <br>
+<br>
 
 **📍 GIS & Earth Observation specialist | Biodiversity & Spatial Modelling expert**  
 👩‍🎓 I'm a biologist and GIS analyst specializing in geospatial data, remote sensing, and biodiversity modelling. I previously worked as a junior researcher at Vrije Universiteit Amsterdam and now apply GIS for environmental decision-making. I'm passionate about sustainability and data-driven solutions.
