@@ -47,11 +47,11 @@
         <br><strong>QGIS</strong>
      </td>
      <td align="center" width="150">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/ArcGIS_logo.png" width="50">
+        <img src="https://www.cadcenter.in/wp-content/uploads/2022/09/ArcGIS_logo-1-990x1024.png" width="50">
         <br><strong>ArcGIS</strong>
      </td>
      <td align="center" width="150">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/PostGIS_logo.png" width="50">
+        <img src="https://descomplicaqgis.com.br/wp-content/uploads/2021/03/logo-hot2-postgis.jpg" width="50">
         <br><strong>PostGIS</strong>
      </td>
     </tr>
