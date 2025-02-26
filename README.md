@@ -27,17 +27,17 @@
      </td>
 
      <td align="center" width="150">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/QGIS_logo.svg" width="50">
+        <img src="https://en.wikipedia.org/wiki/QGIS#/media/File:QGIS_logo,_2017.svg" width="50">
         <br><strong>QGIS</strong>
      </td>
 
      <td align="center" width="150">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/ArcGIS_logo.png" width="50">
+        <img src="https://en.wikipedia.org/wiki/ArcGIS#/media/File:ArcGIS_logo.png" width="50">
         <br><strong>ArcGIS</strong>
      </td>
 
      <td align="center" width="150">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/PostGIS_logo.png" width="50">
+        <img src="https://pt.wikipedia.org/wiki/PostGIS#/media/Ficheiro:Logo_square_postgis.png" width="50">
         <br><strong>PostGIS</strong>
      </td>
   </tr>
