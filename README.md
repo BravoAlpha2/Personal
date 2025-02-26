@@ -19,25 +19,6 @@
 <p align="center">
 <table>
   <tr>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50">
-      <br><strong>Python</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50">
-      <br><strong>R / RStudio</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50">
-      <br><strong>JavaScript</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50">
-      <br><strong>HTML</strong>
-    </td>
-  </tr>
-
-   <tr>
       <td align="center" width="150">
         <img src="https://www.appgeo.com/wp-content/uploads/GoogleEarthEngine.png" width="50">
         <br><strong>Google Earth Engine</strong>
@@ -55,7 +36,24 @@
         <br><strong>PostGIS</strong>
      </td>
     </tr>
-  
+  <tr>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50">
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50">
+      <br><strong>R / RStudio</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50">
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50">
+      <br><strong>HTML</strong>
+    </td>
+  </tr>
 </table>
 </p>
 
