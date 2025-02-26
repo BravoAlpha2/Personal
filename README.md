@@ -16,50 +16,49 @@
 
 ## 🧠 Hard Skills:
 
-<table>
+<table style="border-collapse: collapse;">
   <tr>
-     <td align="center">
+     <td align="center" width="150">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Google_Earth_Engine_logo.png" width="50">
-        <br>Google Earth Engine
+        <br><b>Google Earth Engine</b>
       </td>
 
-      <td align="center">
+      <td align="center" width="150">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/QGIS_logo.svg" width="50">
-        <br>QGIS
+        <br><b>QGIS</b>
       </td>
 
-      <td align="center">
+      <td align="center" width="150">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/ArcGIS_logo.png" width="50">
-        <br>ArcGIS
+        <br><b>ArcGIS</b>
       </td>
 
-      <td align="center">
+      <td align="center" width="150">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/PostGIS_logo.png" width="50">
-        <br>PostGIS
+        <br><b>PostGIS</b>
       </td>
   </tr>
  
   <tr>
-    <td align="center">
+    <td align="center" width="150">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50">
-      <br>Python
+      <br><b>Python</b>
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50">
-      <br>R / RStudio
+      <br><b>R / RStudio</b>
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50">
-      <br>JavaScript
+      <br><b>JavaScript</b>
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50">
-      <br>HTML
+      <br><b>HTML</b>
     </td>
   </tr>
 </table>
 
-<br>
 
 ## 📌 Projects
 
