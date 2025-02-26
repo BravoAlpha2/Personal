@@ -20,19 +20,19 @@
 <table>
   <tr>
       <td align="center" width="150">
-        <img src="https://www.appgeo.com/wp-content/uploads/GoogleEarthEngine.png" width="80">
+        <img src="https://www.appgeo.com/wp-content/uploads/GoogleEarthEngine.png" width="60">
         <br><strong>GEE</strong>
      </td>
      <td align="center" width="150">
-        <img src="https://www.osgeo.org/wp-content/uploads/QGIS-Logo.png" width="80">
+        <img src="https://www.osgeo.org/wp-content/uploads/QGIS-Logo.png" width="60">
         <br><strong>QGIS</strong>
      </td>
      <td align="center" width="150">
-        <img src="https://www.cadcenter.in/wp-content/uploads/2022/09/ArcGIS_logo-1-990x1024.png" width="80">
+        <img src="https://www.cadcenter.in/wp-content/uploads/2022/09/ArcGIS_logo-1-990x1024.png" width="60">
         <br><strong>ArcGIS</strong>
      </td>
      <td align="center" width="150">
-        <img src="https://descomplicaqgis.com.br/wp-content/uploads/2021/03/logo-hot2-postgis.jpg" width="80">
+        <img src="https://descomplicaqgis.com.br/wp-content/uploads/2021/03/logo-hot2-postgis.jpg" width="60">
         <br><strong>PostGIS</strong>
      </td>
     </tr>
