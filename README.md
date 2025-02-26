@@ -20,7 +20,7 @@
 <table>
   <tr>
       <td align="center" width="150">
-        <img src="https://www.appgeo.com/wp-content/uploads/GoogleEarthEngine.png" width="50">
+        <img src="https://www.appgeo.com/wp-content/uploads/GoogleEarthEngine.png" width="20">
         <br><strong>Google Earth Engine</strong>
      </td>
 
