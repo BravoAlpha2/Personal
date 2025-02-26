@@ -1,14 +1,14 @@
 <h2 align="center"> Hello 👋! I'm Nuno Garcia! ☺️ </h2>
 
-<br>
-
-## 🔍 About me
-👩‍🎓 **GIS & Earth Observation Specialist | Biodiversity & Spatial Modeling Expert**, former Junior Researcher at Vrije Universiteit Amsterdam, focused on geospatial data, remote sensing, and biodiversity modeling. Passionate about sustainability and data-driven conservation. I use GIS, Google Earth Engine, R, and Python to analyze biodiversity trends, model climate impacts, and develop data-driven solutions for conservation. My work connects spatial data analysis with real-world ecological applications, supporting environmental decision-making.
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BravoAlpha2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BravoAlpha2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+<br>
+
+## 🔍 About me
+👩‍🎓 **GIS & Earth Observation Specialist | Biodiversity & Spatial Modeling Expert**, former Junior Researcher at Vrije Universiteit Amsterdam, focused on geospatial data, remote sensing, and biodiversity modeling. Passionate about sustainability and data-driven conservation. I use GIS, Google Earth Engine, R, and Python to analyze biodiversity trends, model climate impacts, and develop data-driven solutions for conservation. My work connects spatial data analysis with real-world ecological applications, supporting environmental decision-making.
 
 <br>
 
