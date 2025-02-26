@@ -42,7 +42,7 @@ At the intersection of science and technology, I use GIS, Google Earth Engine, R
         <img src="https://pt.wikipedia.org/wiki/PostGIS#/media/Ficheiro:Logo_square_postgis.png" width="50">
         <br>ArcGIS
       </td>
- </tr>
+  </tr>
  
   <tr>
     <td align="center">
@@ -62,41 +62,43 @@ At the intersection of science and technology, I use GIS, Google Earth Engine, R
       <br>HTML
     </td>
   </tr>
+  
 </table>
 
 <br>
 
-## 📌 Meus Projetos
+## 📌 Projects
 
 ### 🌍 **Swiss Re Foundation**
-Contribuí para o projeto *"Understanding risks and opportunities of alternative scenarios for a future friendly to biodiversity and people in Europe"*. A pesquisa avalia os impactos das mudanças climáticas e do uso da terra na biodiversidade e nos serviços ecossistêmicos na Europa. O estudo gera mapas de distribuição de espécies e de risco para diferentes táxons, orientando estratégias sustentáveis.
+Contributed to the project *"Understanding risks and opportunities of alternative scenarios for a future friendly to biodiversity and people in Europe"*. This research assesses climate and land use change impacts on biodiversity and ecosystem services across Europe, generating species distribution and risk maps for multiple taxa.
 
-🔗 [Ver notícia](#)
+🔗 [View news](#)
 
 ### 🌱 **NaturaConnect**
-Desenvolvi cenários de uso da terra para o **Nature Futures Framework (NFF)** dentro do projeto NaturaConnect. No **Task 5.2**, rodamos modelos espaciais de alta resolução (1 km) para quantificar mudanças no uso e gestão do solo alinhadas às narrativas do NFF, utilizando o modelo **CLUMondo** e cenários **SSP europeus**.
+Developed land use scenarios for the **Nature Futures Framework (NFF)** within the NaturaConnect project. As part of **Task 5.2**, ran **high-resolution (1 km) land-use models** to quantify potential land-use and land management changes, using **CLUMondo** and European **SSP scenarios**.
 
-🔗 [Ver modelos](#)
+🔗 [View models](#)
 
 ### 🌎 **Earth Commission**
-Participei de um estudo que demonstrou que pelo menos **20%–25% de habitats (semi-)naturais por km²** são essenciais para manter as **Contribuições da Natureza para as Pessoas (NCP)** em paisagens modificadas. Desenvolvi um **app no Google Earth Engine (GEE)** para visualizar os resultados.
+Contributed to a study demonstrating that **at least 20%–25% (semi-)natural habitat per km²** is required to sustain **Nature’s Contributions to People (NCP)** in human-modified landscapes. Developed a **Google Earth Engine (GEE) app** to visualize the results.
 
-🔗 [Ver artigo](#) | 🔗 [Ver GEE App](#)
+🔗 [View article](#) | 🔗 [View GEE App](#)
 
 ### 🗺️ **MontObEO - Web GIS**
-No projeto **MontObEO** e como parte da minha dissertação de mestrado, desenvolvi um **Web GIS** para monitoramento da biodiversidade na **Área de Proteção Especial Montesinho/Nogueira (MN-SPA)**. Criei versões em **português e inglês** para o público nativo e estrangeiro.
+Developed a **Web GIS system** to monitor biodiversity in the **Montesinho/Nogueira Special Protection Area (MN-SPA)** as part of the **MontObEO project and MSc thesis**. Created both **Portuguese and English versions** for native and foreign users.
 
-🔗 [Ver Web GIS (EN)](#) | 🔗 [Ver Web GIS (PT)](#)
+🔗 [View Web GIS (EN)](#) | 🔗 [View Web GIS (PT)](#)
 
-### 🦎 **NA2RE - Atlas de Anfíbios e Répteis da Europa**
-Com **R**, desenvolvi o *"NA2RE: New ATLAS of Amphibians and Reptiles of Europe"*, compilando dados atualizados sobre a distribuição de anfíbios e répteis na Europa.
+### 🦎 **NA2RE - Atlas of Amphibians and Reptiles of Europe**
+Using **R**, developed *"NA2RE: New ATLAS of Amphibians and Reptiles of Europe."* This project compiles updated data on amphibian and reptile distributions across Europe.
 
-🔗 [Ver NA2RE](#)
+🔗 [View NA2RE](#)
 
 ### 📊 **R Packages**
-Contribuí para a criação de uma **tabela interativa** do artigo *"R packages for ecological niche modelling"*, publicado na revista *Ecological Modelling (2023)* por **Dr. Neftalí Sillero, Dr. João C. Campos, Dr. Salvador Arenas-Castro e Dra. Ana Márcia Barbosa**.
+Contributed to an **interactive table** version of the article *"R packages for ecological niche modelling"*, published in *Ecological Modelling (2023)* by **Dr. Neftalí Sillero, Dr. João C. Campos, Dr. Salvador Arenas-Castro, and Dr. Ana Márcia Barbosa**.
 
-🔗 [Ver app](#)
+🔗 [View app](#)
+
 
 <br>
 
