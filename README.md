@@ -19,22 +19,22 @@
 <table style="border-collapse: collapse;">
   <tr>
      <td align="center" width="150">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Google_Earth_Engine_logo.png" width="50">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Google_Earth_Engine_logo.png" width="30">
         <br><b>Google Earth Engine</b>
       </td>
 
       <td align="center" width="150">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/QGIS_logo.svg" width="50">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/QGIS_logo.svg" width="30">
         <br><b>QGIS</b>
       </td>
 
       <td align="center" width="150">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/ArcGIS_logo.png" width="50">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/ArcGIS_logo.png" width="30">
         <br><b>ArcGIS</b>
       </td>
 
       <td align="center" width="150">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/PostGIS_logo.png" width="50">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/PostGIS_logo.png" width="30">
         <br><b>PostGIS</b>
       </td>
   </tr>
